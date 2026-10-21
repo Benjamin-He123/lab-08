@@ -29,7 +29,7 @@ class MainActivity : ComponentActivity() {
         }
     }
 }
-
+// Testing continuous
 @Composable
 fun Greeting(name: String, modifier: Modifier = Modifier) {
     Text(
